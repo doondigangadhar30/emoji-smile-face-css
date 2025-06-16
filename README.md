@@ -6,7 +6,7 @@ A simple and fun emoji-style smiling face built with only HTML and CSS. This pro
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/emoji-smile-face-css.git
+   git clone https://github.com/doondigangadhar30/emoji-smile-face-css.git
 ```
 
 ## 🌟 Preview
